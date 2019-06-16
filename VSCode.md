@@ -13,16 +13,16 @@
         - Prettier
         - Simple React Snippets
 - User Settings
-{
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "material-icon-theme",
-    "window.zoomLevel": 0,
-    "editor.glyphMargin": false,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "prettier.tabWidth": 4,
-    "editor.formatOnSave": true,
-    "beautify.ignore": [
-        "**/*.js",
-        "**/*.jsx"
-    ]
-}
+{  
+    "workbench.colorTheme": "Dracula",  
+    "workbench.iconTheme": "material-icon-theme",  
+    "window.zoomLevel": 0,  
+    "editor.glyphMargin": false,  
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",  
+    "prettier.tabWidth": 4,  
+    "editor.formatOnSave": true,  
+    "beautify.ignore": [  
+        "**/*.js",  
+        "**/*.jsx"  
+    ]  
+}  
