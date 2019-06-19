@@ -1,7 +1,7 @@
 # Fresh install 
 ## Tweaks
 - Appearance:
-    - Theme: Darcula
+    - Theme: Dracula
     - Icon Theme: Material Icon 
     - Extensions
         - Beautify
